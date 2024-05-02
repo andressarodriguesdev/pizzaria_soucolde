@@ -25,14 +25,14 @@ O projeto Pizzaria Soulcode é um sistema de pedidos para uma pizzaria fictícia
 ## 🛠️ Como Usar
 
 1. Clone o repositório para sua máquina local:
-2. 
-3. 2. Importe o projeto em sua IDE favorita (Eclipse, IntelliJ, etc.).
 
-4. Configure o banco de dados MySQL de acordo com as configurações do arquivo `application.properties`.
+2. Importe o projeto em sua IDE favorita (Eclipse, IntelliJ, etc.).
 
-5. Execute o projeto localmente.
+3. Configure o banco de dados MySQL de acordo com as configurações do arquivo `application.properties`.
 
-6. Acesse o sistema em seu navegador web através do endereço `http://localhost:8080`.
+4. Execute o projeto localmente.
+
+5. Acesse o sistema em seu navegador web através do endereço `http://localhost:8080`.
 
 ## 🤝 Contribuição
 
@@ -46,4 +46,11 @@ Sinta-se à vontade para contribuir com o projeto! Você pode:
 Para contribuir, siga estas etapas:
 
 1. Fork o projeto.
-2. Crie uma branch para sua feature (`git checkout -b feature/n
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
+3. Faça commit das suas alterações (`git commit -am 'Adiciona nova feature'`).
+4. Faça push para a branch (`git push origin feature/nova-feature`).
+5. Crie um novo pull request.
+
+## 📝 Licença
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
