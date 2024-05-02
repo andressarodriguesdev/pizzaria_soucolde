@@ -1,10 +1,7 @@
 # 🍕 Pizzaria Soulcode 🍕
 
-Projeto de sistema de pedidos para uma pizzaria, desenvolvido como parte do curso de desenvolvimento Full Stack da SoulCode Academy.
+Projeto de sistema de pedidos para uma pizzaria, desenvolvido como parte do curso de desenvolvimento Back end da SoulCode Academy.
 
-## ℹ️ Sobre
-
-O projeto Pizzaria Soulcode é um sistema de pedidos para uma pizzaria fictícia, desenvolvido como parte do curso de desenvolvimento Back end da SoulCode Academy. Ele permite que os clientes façam pedidos de pizzas e bebidas, além de visualizar o cardápio e o histórico de pedidos.
 
 ## 🚀 Funcionalidades
 
