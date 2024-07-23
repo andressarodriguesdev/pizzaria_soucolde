@@ -1,4 +1,6 @@
-# 🍕 Pizzaria Soulcode 🍕
+![Pizza](https://github.com/user-attachments/assets/9b6b114d-5f01-4f74-b0ba-dccc60326f1a)
+
+
 
 Projeto de sistema de pedidos para uma pizzaria, desenvolvido como parte do curso de desenvolvimento Back end da SoulCode Academy.
 
