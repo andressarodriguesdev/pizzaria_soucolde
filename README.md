@@ -20,6 +20,7 @@ Projeto de sistema de pedidos para uma pizzaria, desenvolvido como parte do curs
 - Spring Boot
 - Hibernate
 - MySQL
+- Swagger
 
 ## 🛠️ Como Usar
 
