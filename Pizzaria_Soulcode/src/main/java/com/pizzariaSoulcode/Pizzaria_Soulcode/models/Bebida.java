@@ -22,7 +22,6 @@ public class Bebida {
 
 
     public Bebida() {
-        // Construtor padrão vazio requerido pelo Hibernate
     }
 
     public boolean isPrecoValido() {
